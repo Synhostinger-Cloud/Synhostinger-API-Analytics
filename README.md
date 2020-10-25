@@ -1,4 +1,4 @@
-# ![logo](https://pbs.twimg.com/profile_images/1245511377948721152/aCYTMuzq_400x400.jpg)
+# ![logo](https://www.synhostinger.com/img/synh_txtdark.png)
 
 ## Introduction
 API PHP pour le service : analytics.synhostinger.com
