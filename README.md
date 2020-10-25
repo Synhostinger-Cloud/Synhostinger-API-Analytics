@@ -1,7 +1,7 @@
 # ![logo](https://www.synhostinger.com/img/synh_txtdark.png)
 
 ## Introduction
-API PHP pour le service : analytics.synhostinger.com
+API PHP pour le système Matomo
 
 ## Requirements
 API : rendez-vous dans Administration => API => Authentification de l'utilisateur
