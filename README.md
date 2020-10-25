@@ -10,6 +10,8 @@ Site ID : idSite=x vous le voyez dans l'URL à la fin
 
 Minimum PHP 7.0 recommandé PHP 7.3
 
+Edit api.php : remplacer la ligne par votre site => https://analytics.synhostinger.com
+
 ## Installation
 Placez-le dans votre répertoire où PHP s'exécute
 
