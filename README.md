@@ -1,4 +1,4 @@
-# ![logo](https://www.synhostinger.com/img/synh_txtdark.png)
+# ![logo](https://www.synhostinger.com/logo)
 
 ## Introduction
 API PHP pour le système Matomo
